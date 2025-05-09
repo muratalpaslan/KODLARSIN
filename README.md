@@ -26,8 +26,8 @@ Deneyim seviyeniz ne olursa olsun, öğrenmeye ve paylaşmaya açık herkesi ara
 
 
 ✅ Katılım Süreci
-LinkedIn grubumuza katılın: [LinkedIn Grup Linki]
-Telegram grubumuza katılın: [Telegram Davet Linki]
+LinkedIn grubumuza katılın: https://www.linkedin.com/groups/8394265/
+Telegram grubumuza katılın: https://t.me/kodlarsin
 Bu repo'yu fork edin ve README dosyasını okuyun
 Kendinizi #tanisma kanalında tanıtın
 İlgilendiğiniz projelere katılın veya yeni bir proje önerin
