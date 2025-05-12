@@ -156,5 +156,5 @@ Yerel etkinlik ve hackathon düzenlenmesi
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
 🙏 Destek ve İletişim
-Sorularınız veya önerileriniz için issue açabilir veya Discord kanalımız üzerinden iletişime geçebilirsiniz.
+Sorularınız veya önerileriniz için issue açabilir veya Telegram kanalımız üzerinden iletişime geçebilirsiniz.
 Bize Katılın ve Birlikte Gelişelim! 💪
